@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProyectoEQ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_fragment">Inicio de Sesión</string>
+    <string name="title_user">Usuario: </string>
+    <string name="title_psw">Contraseña: </string>
+    <string name="title_boton">Iniciar Sesión</string>
+
+
+</resources>
